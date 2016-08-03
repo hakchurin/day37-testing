@@ -1,0 +1,23 @@
+// cart component will be the entire cart --will be getting info from the cart item component and the cart component will render into the dom.??
+
+//already have selected items but able to add
+//cart all the things i want to buy
+//cart item is one thing in my cart i want to buy
+
+//cart is entire cartPreview
+//cart item are the items in the cart that were selected
+
+      //cart component will display the cartitems i have selected and their total
+
+//model has a way to add and remove items //
+//not really sure what will go into my cart model
+  // so my data will go into my cart model?
+
+  // cart model adds items to my cart. calling the function from the component on items and once clicked it renders to the cart item
+
+
+  //help me im getting confused...
+
+
+//
+//does cart model exsist test if it has default props total price 0 empty []

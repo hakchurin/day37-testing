@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/haleyakchurin/TIY/day-37/spa-scaffold/app/scripts/TheCart.js: Unexpected token (11:6) while parsing file: /Users/haleyakchurin/TIY/day-37/spa-scaffold/app/scripts/TheCart.js");
